@@ -5,28 +5,23 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
+  email: pedro194747@gmailcom
+  phone: 84 991888779
   website: https://yourwebsite.com
-  linkedin: stevedoe
+  linkedin:
   github: pedrolucs
-  gitlab:
-  bitbucket:
-  twitter: "@stevedoe"
+  instagram: @pedro2luccas
+  facebook: pedro lucas
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
+  - idiom: portuguese
     level: Native
-  - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
 
 interests:
-  - name: Climbing
+  - name: teste
     link:
   - name: Snowboarding
     link:
@@ -39,7 +34,7 @@ summary: |
   Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
   Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
   Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
+  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate ege.
 
 education:
   - degree: MSc in Computer Science
